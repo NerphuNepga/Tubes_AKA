@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?><?mso-application progid="Excel.Sheet"?><Workbook xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:x2="urn:schemas-microsoft-com:office:excel2" xmlns:html="http://www.w3.org/TR/REC-html40" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882">
+ <x:ExcelWorkbook>
+  <x:ActiveSheet>0</x:ActiveSheet>
+ </x:ExcelWorkbook>
+ <o:DocumentProperties>
+  <o:Author>MUHAMMAD ARRAYAN FIKRI</o:Author>
+  <o:Created>2024-12-19T11:13:15Z</o:Created>
+  <o:LastSaved>2024-12-19T11:29:11Z</o:LastSaved>
+ </o:DocumentProperties>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:Color="#000000" ss:FontName="Aptos Narrow" ss:Size="11" />
+  </Style>
+  <Style ss:ID="S21">
+   <ss:Alignment ss:Vertical="Bottom" />
+   <ss:Font ss:FontName="Aptos Narrow" ss:Size="11" />
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <ss:Names />
+  <ss:Table ss:DefaultRowHeight="14.4" ss:DefaultColumnWidth="54" ss:ExpandedRowCount="10" ss:ExpandedColumnCount="2">
+   <Row ss:Index="1">
+    <Cell><Data ss:Type="Number">10</Data>
+    </Cell>
+    <Cell ss:StyleID="S21"><Data ss:Type="Number">4.8999999999999998E-05</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="2">
+    <Cell><Data ss:Type="Number">20</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">5.5000000000000002E-05</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="3">
+    <Cell><Data ss:Type="Number">50</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">6.7999999999999999E-05</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="4">
+    <Cell><Data ss:Type="Number">100</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.00014300000000000001</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="5">
+    <Cell><Data ss:Type="Number">200</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.000185</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="6">
+    <Cell><Data ss:Type="Number">500</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.00087799999999999998</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="7">
+    <Cell><Data ss:Type="Number">1000</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.001248</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="8">
+    <Cell><Data ss:Type="Number">2000</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.0037429999999999998</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="9">
+    <Cell><Data ss:Type="Number">5000</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.012574</Data>
+    </Cell>
+   </Row>
+   <Row ss:Index="10">
+    <Cell><Data ss:Type="Number">10000</Data>
+    </Cell>
+    <Cell><Data ss:Type="Number">0.031335000000000002</Data>
+    </Cell>
+   </Row>
+  </ss:Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3" />
+    <Footer x:Margin="0.3" />
+    <PageMargins x:Top="0.75" x:Bottom="0.75" x:Left="0.7" x:Right="0.7" />
+   </PageSetup>
+   <Print>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>10</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+     <RangeSelection>R11C2</RangeSelection>
+    </Pane>
+   </Panes>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
